@@ -2,7 +2,6 @@
  *  MIRO nodejs express quick start
  *  provider : GeekTree0101
  *  copyright(C) 2017 MIRO Internet of things team
- * 
  */
 
 /**
