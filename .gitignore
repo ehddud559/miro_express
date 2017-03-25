@@ -1,0 +1,3 @@
+# Git Ignore
+# NOTE : you can ignore some file, when you commit on github
+node_modules/
